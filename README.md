@@ -4,7 +4,7 @@
 
 ### Healthcare vs. Poverity 
 
-![snap1](Snapshots/healthcarePoverty.jpg)
+![snap1](Snapshots/heathcarePoverty.jpg)
 
 ### Smokers vs. Age
 
